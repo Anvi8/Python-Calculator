@@ -7,4 +7,4 @@ Created a basic calculator functionality using Python's Tkinter library.
 3. Answer will be displayed on Console window.
 
 ## Screenshot
-![alt home](https://github.com/Anvi8/Python-Calculator/blob/master/Calculator-home.png)
+![alt home](https://anvi8.github.io/Python-Calculator/Calculator-home.png)
